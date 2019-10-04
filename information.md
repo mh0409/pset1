@@ -3,12 +3,12 @@
 
 Fill in your personal information, stage the changes, and commit with a meaningful commit message.  Then push the commit to the remote repository.
 
-* Name:
+* Name: Maria Jose Herrera
 
-* LSE ID:
+* LSE ID: 201907288
 
-* LSE email address:
+* LSE email address: m.herrera@lse.ac.uk
 
-* Programme:
+* Programme: ASDS
 
 * (Optional) Personal website:
